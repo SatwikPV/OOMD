@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGIKLGO6db2+bk="
 					},
-					"name": "StatechartDiagram1",
+					"name": "Online Shopping System",
 					"ownedViews": [
 						{
 							"_type": "UMLPseudostateView",
@@ -3087,6 +3087,55 @@
 							},
 							"propertyLabel": {
 								"$ref": "AAAAAAGIMDmXAE43VkI="
+							}
+						},
+						{
+							"_type": "UMLFrameView",
+							"_id": "AAAAAAGIs8YVaRTvC68=",
+							"_parent": {
+								"$ref": "AAAAAAGIKLGO6tb4YZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGIKLGO6tb4YZQ="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIs8YVaRTwZk4=",
+									"_parent": {
+										"$ref": "AAAAAAGIs8YVaRTvC68="
+									},
+									"font": "Arial;13;0",
+									"left": 103.94091796875,
+									"top": 13,
+									"width": 144.08251953125,
+									"height": 13,
+									"text": "Online Shopping System"
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIs8YVaxTxlho=",
+									"_parent": {
+										"$ref": "AAAAAAGIs8YVaRTvC68="
+									},
+									"font": "Arial;13;1",
+									"left": 77,
+									"top": 13,
+									"width": 21.94091796875,
+									"height": 13,
+									"text": "stm"
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 72,
+							"top": 8,
+							"width": 1152,
+							"height": 648,
+							"nameLabel": {
+								"$ref": "AAAAAAGIs8YVaRTwZk4="
+							},
+							"frameTypeLabel": {
+								"$ref": "AAAAAAGIs8YVaxTxlho="
 							}
 						}
 					]
